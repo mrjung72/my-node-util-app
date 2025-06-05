@@ -1,0 +1,24 @@
+{
+  "name": "my-node-util-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjung72/my-node-util-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrjung72/my-node-util-app/issues"
+  },
+  "homepage": "https://github.com/mrjung72/my-node-util-app#readme",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "mysql2": "^3.14.1"
+  }
+}
